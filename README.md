@@ -1,4 +1,4 @@
-# Controladora-Termica-Programable
+# Controladora-Térmica-Programable
 Es un desarrollo con varias versiones  que crecen en prestaciones y complejidad.
 Todas las versiones basicamente como su nombre lo indica son capaces de controlar la energia que entrega una fuente dealimentacion para obtener una respuesta termica a lo largo del tiempo de una placa Peltier.
 El uso incicial fue en respuesta a la necesidad del Laboratorio de Evolucion de la Facultad de Ciencias Exactas de la UNBA para estudiar la respuesta termica, el desarrollo y su adaptacion en ciertos insectos (vg.: drosofila melanogaster),
