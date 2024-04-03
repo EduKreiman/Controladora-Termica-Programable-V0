@@ -18,6 +18,6 @@ Los seteos iniciales fijos se alojan en un sketch independiente que se puede mod
 
 La interfase de usuario:
 Consta de un par de leds (rojo y verde) que indican el estado de enfriamiento o calentamiento, 
-otro led que pulsa al rimo de cada lectura de temperatura como indicador de funcionamiento correcto. 
+otro led que pulsa al ritmo de cada lectura de temperatura como indicador de funcionamiento correcto. 
 La llave on/off de la Fuente de alimentacion habilita el funcionamiento del equipo.
 
