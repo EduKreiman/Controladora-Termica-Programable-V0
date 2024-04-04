@@ -1,0 +1,1 @@
+fritzing en txt
