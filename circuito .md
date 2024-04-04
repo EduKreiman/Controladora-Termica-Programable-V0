@@ -1,1 +1,1 @@
-fritzing en txt
+version autonoa V01--->  fritzing en txt
