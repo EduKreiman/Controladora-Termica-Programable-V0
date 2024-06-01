@@ -1,0 +1,26 @@
+  ,  , Corrida: ,23 seg ,  ,  , Chamber: ,18.78, ºC     , MetaInsta: ,18.0, ºC     , BbaTermica: ,14.52, ºC     ,  , Aire: ,15.22,1:2:41,23/8/2022,TomaNro= 1,   Modo ,3,   puente H ,0.0,     ,  , T1 Min: ,16.0,T2 Max ,32.0,freeMemory ,730.0,,
+STATUS-SE 2,COOLINGconPWM=94y0,pseudoPID-RANGO SE 15,1.1,pseudoPID-HOT/COOL SE 16,85.0,pseudoPID-HISTERESIS SE 17,0.14, Hora Calc,1.0447222,  ,  , Corrida: ,35 seg ,  ,  , Chamber: ,18.77, ºC     , MetaInsta: ,17.99, ºC     , BbaTermica: ,14.81, ºC     ,  , Aire: ,15.22,1:2:53,23/8/2022,TomaNro= 2,   Modo ,3,   puente H ,0.0,   EVENTO= 2,
+     
+  Texto de la cajita evento:  <----- este es el texto
+ 1:2:53
+null
+
+ <-----ESTE
+STATUS-SE 2,COOLINGconPWM=96y81,pseudoPID-RANGO SE 15,1.1,pseudoPID-HOT/COOL SE 16,85.0,pseudoPID-HISTERESIS SE 17,0.14, Hora Calc,1.0480555,  ,  , Corrida: ,47 seg ,  ,  , Chamber: ,18.82, ºC     , MetaInsta: ,17.99, ºC     , BbaTermica: ,14.77, ºC     ,  , Aire: ,15.22,1:3:5,23/8/2022,TomaNro= 3,   Modo ,3,   puente H ,0.0,     ,  , T1 Min: ,16.0,T2 Max ,32.0,freeMemory ,730.0,,
+STATUS-SE 2,COOLINGconPWM=96y81,pseudoPID-RANGO SE 15,1.1,pseudoPID-HOT/COOL SE 16,85.0,pseudoPID-HISTERESIS SE 17,0.14, Hora Calc,1.0513889,  ,  , Corrida: ,57 seg ,  ,  , Chamber: ,18.85, ºC     , MetaInsta: ,17.99, ºC     , BbaTermica: ,14.75, ºC     ,  , Aire: ,15.22,1:3:15,23/8/2022,TomaNro= 4,   Modo ,3,   puente H ,9.87,     ,  , T1 Min: ,16.0,T2 Max ,32.0,freeMemory ,730.0,,
+STATUS-SE 2,COOLINGconPWM=99y84,pseudoPID-RANGO SE 15,1.1,pseudoPID-HOT/COOL SE 16,85.0,pseudoPID-HISTERESIS SE 17,0.14, Hora Calc,1.0541667,  ,  , Corrida: ,66 seg ,  ,  , Chamber: ,18.88, ºC     , MetaInsta: ,17.99, ºC     , BbaTermica: ,14.68, ºC     ,  , Aire: ,15.22,1:3:24,23/8/2022,TomaNro= 5,   Modo ,3,   puente H ,9.87,     ,  , T1 Min: ,16.0,T2 Max ,32.0,freeMemory ,730.0,,
+STATUS-SE 2,COOLINGconPWM=102y86,pseudoPID-RANGO SE 15,1.1,pseudoPID-HOT/COOL SE 16,85.0,pseudoPID-HISTERESIS SE 17,0.14, Hora Calc,1.0566666,  ,  , Corrida: ,75 seg ,  ,  , Chamber: ,18.93, ºC     , MetaInsta: ,17.99, ºC     , BbaTermica: ,14.63, ºC     ,  , Aire: ,15.22,1:3:33,23/8/2022,TomaNro= 6,   Modo ,3,   puente H ,9.87,   EVENTO= 5,
+     
+  Texto de la cajita evento:  <----- este es el texto
+ 1:3:33
+[Ljava.lang.String;@571a9e5
+4.4000087873,1.7940130544, -0.9931090066,0.1653098494,-0.0103796399,0.0002635128,25,16,ttegfkcn456464646464
+ <-----ESTE
+STATUS-SE 2,COOLINGconPWM=104y88,pseudoPID-RANGO SE 15,1.1,pseudoPID-HOT/COOL SE 16,85.0,pseudoPID-HISTERESIS SE 17,0.14, Hora Calc,1.0591667,  ,  , Corrida: ,84 seg ,  ,  , Chamber: ,18.95, ºC     , MetaInsta: ,17.98, ºC     , BbaTermica: ,14.52, ºC     ,  , Aire: ,15.22,1:3:42,23/8/2022,TomaNro= 7,   Modo ,3,   puente H ,9.89,   EVENTO= 6,
+     
+  Texto de la cajita evento:  <----- este es el texto
+ 1:3:42
+[Ljava.lang.String;@58046643
+4.4000087873,1.7940130544, -0.9931090066,0.1653098494,-0.0103796399,0.0002635128,25,16,ttegfkcn456464646464
+ <-----ESTE
+STATUS-SE 2,COOLINGconPWM=109y92,pseudoPID-RANGO SE 15,1.1,pseudoPID-HOT/COOL SE 16,85.0,pseudoPID-HISTERESIS SE 17,0.14, Hora Calc,1.0616666,
