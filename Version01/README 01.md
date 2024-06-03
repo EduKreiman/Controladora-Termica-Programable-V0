@@ -2,8 +2,10 @@ VERSION 01 AUTONOMO-CONFIGURABLE:  El sistema esta contenido en un microcontrola
 Asimismo controla simulación del ciclo de fotoperiodo diario  cargando la hora de amanecer y anochecer en el sketch "parametror.ino"
 
 La interfase de usuario consta de un par de leds rojo y verde que indican el estado de enfriamiento o calentamiento respectivamente, y un tercer led que pulsa al ritmo de cada lectura de temperatura como indicador de funcionamiento correcto. La llave on/off de la fuente de alimentacion habilita el funcionamiento del equipo.
+
 Asimismo de incluyen un programa escrito en processing y una aplicacion para android .
 Al correr el programa de processing y conectarlo via puerto serial permite el monitoreo en tiempo real,la configuracion de parametros y la elección de la rutina térmica activa.
+
 Simultaneamente la aplicacion para android se conecta via Bluetooth con la controladora y permite el monitoreo en tiempo real,la configuracion de parametros y la elección de la rutina térmica activa.
 
 Un reloj interno (RTC), con batería de 10 años de duración, entrega el input para el cálculo de la ecuación para el ciclo diario. Esto le permite al sistema soportar interrupciones de alimentación, ya que el ciclo se reinicia en según la hora del reloj interno. Usa un sensor de temperatura Dallas Temperature (o Maxim Systems) Modelo 18b20, cuya lectura (Ti) es comparada con la temperatura de calculo para cada instante (Tcal). El signo de Ti-Tcal dispara la rutina frio/calor, activando la rama correspondiente del puente-H según la rutina seleccionada. El valor de ancho de pulso (PWM) que recibe el puente-H es función del módulo de Ti-Tcal, corregida por la rutina PID (Proporcional, Integral, Derivada). 
