@@ -1,0 +1,177 @@
+:7:39,TomaNro= 6,    Disip: ,0.0, ºC     , Peltier: ,25.81, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,38 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:7:45,TomaNro= 7,    Disip: ,28.81, ºC     , Peltier: ,25.87, ºC     , teInsta: ,23.92, ºC     , teAire: ,21.5, ºC     , Corrida: ,44 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:7:52,TomaNro= 8,    Disip: ,28.81, ºC     , Peltier: ,25.79, ºC     , teInsta: ,19.26, ºC     , teAire: ,21.5, ºC     , Corrida: ,51 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:7:58,TomaNro= 9,    Disip: ,28.81, ºC     , Peltier: ,25.14, ºC     , teInsta: ,17.86, ºC     , teAire: ,21.5, ºC     , Corrida: ,57 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:8:5,TomaNro= 10,    Disip: ,29.44, ºC     , Peltier: ,24.05, ºC     , teInsta: ,17.28, ºC     , teAire: ,21.5, ºC     , Corrida: ,64 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:8:11,TomaNro= 11,    Disip: ,29.44, ºC     , Peltier: ,23.0, ºC     , teInsta: ,17.11, ºC     , teAire: ,21.5, ºC     , Corrida: ,70 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:8:17,TomaNro= 12,    Disip: ,31.25, ºC     , Peltier: ,21.87, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,76 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:8:23,TomaNro= 13,    Disip: ,31.25, ºC     , Peltier: ,20.93, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,82 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:8:29,TomaNro= 14,    Disip: ,31.25, ºC     , Peltier: ,19.98, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,88 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:8:35,TomaNro= 15,    Disip: ,31.25, ºC     , Peltier: ,19.1, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,94 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:8:41,TomaNro= 16,    Disip: ,31.25, ºC     , Peltier: ,18.36, ºC     , teInsta: ,30.12, ºC     , teAire: ,21.5, ºC     , Corrida: ,100 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:8:47,TomaNro= 17,    Disip: ,31.25, ºC     , Peltier: ,18.94, ºC     , teInsta: ,22.02, ºC     , teAire: ,21.5, ºC     , Corrida: ,106 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:8:54,TomaNro= 18,    Disip: ,31.25, ºC     , Peltier: ,20.59, ºC     , teInsta: ,18.64, ºC     , teAire: ,21.5, ºC     , Corrida: ,113 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,BALANCEconPWM=165,
+
+0:9:0,TomaNro= 19,    Disip: ,31.25, ºC     , Peltier: ,21.53, ºC     , teInsta: ,17.63, ºC     , teAire: ,21.5, ºC     , Corrida: ,119 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:9:6,TomaNro= 20,    Disip: ,31.25, ºC     , Peltier: ,21.37, ºC     , teInsta: ,17.24, ºC     , teAire: ,21.5, ºC     , Corrida: ,125 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:9:12,TomaNro= 21,    Disip: ,31.25, ºC     , Peltier: ,20.65, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,131 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:9:18,TomaNro= 22,    Disip: ,31.25, ºC     , Peltier: ,19.8, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,137 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:9:24,TomaNro= 23,    Disip: ,31.25, ºC     , Peltier: ,18.95, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,143 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:9:30,TomaNro= 24,    Disip: ,31.25, ºC     , Peltier: ,18.11, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,149 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:9:37,TomaNro= 25,    Disip: ,31.25, ºC     , Peltier: ,17.23, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,156 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=225,
+
+0:9:43,TomaNro= 26,    Disip: ,31.25, ºC     , Peltier: ,16.62, ºC     , teInsta: ,26.53, ºC     , teAire: ,21.5, ºC     , Corrida: ,162 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:9:49,TomaNro= 27,    Disip: ,31.25, ºC     , Peltier: ,17.29, ºC     , teInsta: ,20.65, ºC     , teAire: ,21.5, ºC     , Corrida: ,168 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:9:55,TomaNro= 28,    Disip: ,31.25, ºC     , Peltier: ,19.05, ºC     , teInsta: ,18.4, ºC     , teAire: ,21.5, ºC     , Corrida: ,174 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=225,
+
+0:10:1,TomaNro= 29,    Disip: ,31.25, ºC     , Peltier: ,20.7, ºC     , teInsta: ,17.53, ºC     , teAire: ,21.5, ºC     , Corrida: ,180 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:10:7,TomaNro= 30,    Disip: ,31.25, ºC     , Peltier: ,21.06, ºC     , teInsta: ,17.2, ºC     , teAire: ,21.5, ºC     , Corrida: ,186 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:10:13,TomaNro= 31,    Disip: ,31.25, ºC     , Peltier: ,20.51, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,192 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:10:19,TomaNro= 32,    Disip: ,31.25, ºC     , Peltier: ,19.73, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,198 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:10:25,TomaNro= 33,    Disip: ,31.25, ºC     , Peltier: ,18.88, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,204 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:10:31,TomaNro= 34,    Disip: ,31.25, ºC     , Peltier: ,18.05, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,210 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:10:38,TomaNro= 35,    Disip: ,31.25, ºC     , Peltier: ,17.17, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,217 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=225,
+
+0:10:44,TomaNro= 36,    Disip: ,31.25, ºC     , Peltier: ,16.56, ºC     , teInsta: ,25.12, ºC     , teAire: ,21.5, ºC     , Corrida: ,223 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:10:50,TomaNro= 37,    Disip: ,31.25, ºC     , Peltier: ,17.24, ºC     , teInsta: ,20.11, ºC     , teAire: ,21.5, ºC     , Corrida: ,229 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:10:56,TomaNro= 38,    Disip: ,31.25, ºC     , Peltier: ,18.99, ºC     , teInsta: ,18.19, ºC     , teAire: ,21.5, ºC     , Corrida: ,235 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=197,
+
+0:11:2,TomaNro= 39,    Disip: ,31.25, ºC     , Peltier: ,20.56, ºC     , teInsta: ,17.39, ºC     , teAire: ,21.5, ºC     , Corrida: ,241 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:11:9,TomaNro= 40,    Disip: ,31.25, ºC     , Peltier: ,20.9, ºC     , teInsta: ,17.15, ºC     , teAire: ,21.5, ºC     , Corrida: ,247 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:11:15,TomaNro= 41,    Disip: ,31.25, ºC     , Peltier: ,20.33, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,253 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:11:21,TomaNro= 42,    Disip: ,31.25, ºC     , Peltier: ,19.53, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,259 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:11:27,TomaNro= 43,    Disip: ,31.25, ºC     , Peltier: ,18.7, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,265 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:11:33,TomaNro= 44,    Disip: ,31.25, ºC     , Peltier: ,17.87, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,271 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:11:39,TomaNro= 45,    Disip: ,31.25, ºC     , Peltier: ,17.03, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,278 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=183,
+
+0:11:45,TomaNro= 46,    Disip: ,31.25, ºC     , Peltier: ,16.52, ºC     , teInsta: ,23.92, ºC     , teAire: ,21.5, ºC     , Corrida: ,284 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:11:51,TomaNro= 47,    Disip: ,31.25, ºC     , Peltier: ,17.28, ºC     , teInsta: ,19.65, ºC     , teAire: ,21.5, ºC     , Corrida: ,290 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:11:58,TomaNro= 48,    Disip: ,31.25, ºC     , Peltier: ,19.04, ºC     , teInsta: ,18.01, ºC     , teAire: ,21.5, ºC     , Corrida: ,297 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,BALANCEconPWM=165,
+
+0:12:4,TomaNro= 49,    Disip: ,31.25, ºC     , Peltier: ,20.04, ºC     , teInsta: ,17.33, ºC     , teAire: ,21.5, ºC     , Corrida: ,303 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:12:10,TomaNro= 50,    Disip: ,31.25, ºC     , Peltier: ,19.94, ºC     , teInsta: ,17.13, ºC     , teAire: ,21.5, ºC     , Corrida: ,309 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:12:16,TomaNro= 51,    Disip: ,31.25, ºC     , Peltier: ,19.27, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,315 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:12:22,TomaNro= 52,    Disip: ,31.25, ºC     , Peltier: ,18.46, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,321 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:12:28,TomaNro= 53,    Disip: ,31.25, ºC     , Peltier: ,17.65, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,327 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:12:34,TomaNro= 54,    Disip: ,31.25, ºC     , Peltier: ,16.83, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,333 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,BALANCEconPWM=165,
+
+0:12:40,TomaNro= 55,    Disip: ,31.25, ºC     , Peltier: ,16.78, ºC     , teInsta: ,30.12, ºC     , teAire: ,21.5, ºC     , Corrida: ,339 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:12:46,TomaNro= 56,    Disip: ,31.25, ºC     , Peltier: ,17.82, ºC     , teInsta: ,22.02, ºC     , teAire: ,21.5, ºC     , Corrida: ,345 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:12:53,TomaNro= 57,    Disip: ,31.25, ºC     , Peltier: ,19.64, ºC     , teInsta: ,18.92, ºC     , teAire: ,21.5, ºC     , Corrida: ,352 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=225,
+
+0:12:59,TomaNro= 58,    Disip: ,31.25, ºC     , Peltier: ,21.26, ºC     , teInsta: ,17.74, ºC     , teAire: ,21.5, ºC     , Corrida: ,358 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:13:5,TomaNro= 59,    Disip: ,31.25, ºC     , Peltier: ,21.59, ºC     , teInsta: ,17.28, ºC     , teAire: ,21.5, ºC     , Corrida: ,364 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:13:11,TomaNro= 60,    Disip: ,31.25, ºC     , Peltier: ,20.98, ºC     , teInsta: ,17.11, ºC     , teAire: ,21.5, ºC     , Corrida: ,370 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:13:17,TomaNro= 61,    Disip: ,31.25, ºC     , Peltier: ,20.15, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,376 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:13:23,TomaNro= 62,    Disip: ,31.25, ºC     , Peltier: ,19.28, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,382 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:13:29,TomaNro= 63,    Disip: ,31.25, ºC     , Peltier: ,18.41, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,388 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:13:35,TomaNro= 64,    Disip: ,31.25, ºC     , Peltier: ,17.57, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,394 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=253,
+
+0:13:41,TomaNro= 65,    Disip: ,31.25, ºC     , Peltier: ,16.88, ºC     , teInsta: ,30.12, ºC     , teAire: ,21.5, ºC     , Corrida: ,400 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:13:47,TomaNro= 66,    Disip: ,31.25, ºC     , Peltier: ,17.5, ºC     , teInsta: ,22.02, ºC     , teAire: ,21.5, ºC     , Corrida: ,406 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:13:54,TomaNro= 67,    Disip: ,31.25, ºC     , Peltier: ,19.23, ºC     , teInsta: ,18.92, ºC     , teAire: ,21.5, ºC     , Corrida: ,413 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=253,
+
+0:14:0,TomaNro= 68,    Disip: ,31.25, ºC     , Peltier: ,20.92, ºC     , teInsta: ,17.63, ºC     , teAire: ,21.5, ºC     , Corrida: ,419 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:14:6,TomaNro= 69,    Disip: ,31.25, ºC     , Peltier: ,21.33, ºC     , teInsta: ,17.24, ºC     , teAire: ,21.25, ºC     , Corrida: ,425 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:14:12,TomaNro= 70,    Disip: ,31.25, ºC     , Peltier: ,20.79, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.25, ºC     , Corrida: ,431 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:14:18,TomaNro= 71,    Disip: ,31.25, ºC     , Peltier: ,19.98, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.25, ºC     , Corrida: ,437 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:14:24,TomaNro= 72,    Disip: ,31.25, ºC     , Peltier: ,19.12, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.25, ºC     , Corrida: ,443 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:14:30,TomaNro= 73,    Disip: ,31.25, ºC     , Peltier: ,18.29, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.25, ºC     , Corrida: ,449 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:14:36,TomaNro= 74,    Disip: ,31.25, ºC     , Peltier: ,17.4, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.25, ºC     , Corrida: ,455 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=250,
+
+0:14:42,TomaNro= 75,    Disip: ,31.25, ºC     , Peltier: ,16.73, ºC     , teInsta: ,26.53, ºC     , teAire: ,21.25, ºC     , Corrida: ,461 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:14:49,TomaNro= 76,    Disip: ,31.25, ºC     , Peltier: ,17.35, ºC     , teInsta: ,20.65, ºC     , teAire: ,21.25, ºC     , Corrida: ,467 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:14:55,TomaNro= 77,    Disip: ,31.25, ºC     , Peltier: ,19.11, ºC     , teInsta: ,18.4, ºC     , teAire: ,21.25, ºC     , Corrida: ,474 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=212,
+
+0:15:1,TomaNro= 78,    Disip: ,31.25, ºC     , Peltier: ,20.7, ºC     , teInsta: ,17.53, ºC     , teAire: ,21.25, ºC     , Corrida: ,480 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:15:7,TomaNro= 79,    Disip: ,31.25, ºC     , Peltier: ,21.06, ºC     , teInsta: ,17.2, ºC     , teAire: ,21.25, ºC     , Corrida: ,486 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:15:13,TomaNro= 80,    Disip: ,31.25, ºC     , Peltier: ,20.5, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,492 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:15:19,TomaNro= 81,    Disip: ,31.25, ºC     , Peltier: ,19.7, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,498 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:15:25,TomaNro= 82,    Disip: ,31.25, ºC     , Peltier: ,18.87, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,504 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:15:31,TomaNro= 83,    Disip: ,31.25, ºC     , Peltier: ,18.04, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,510 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:15:38,TomaNro= 84,    Disip: ,31.25, ºC     , Peltier: ,17.17, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,517 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=212,
+
+0:15:44,TomaNro= 85,    Disip: ,31.25, ºC     , Peltier: ,16.62, ºC     , teInsta: ,25.12, ºC     , teAire: ,21.5, ºC     , Corrida: ,523 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:15:50,TomaNro= 86,    Disip: ,31.25, ºC     , Peltier: ,17.31, ºC     , teInsta: ,20.11, ºC     , teAire: ,21.5, ºC     , Corrida: ,529 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:15:56,TomaNro= 87,    Disip: ,31.25, ºC     , Peltier: ,19.06, ºC     , teInsta: ,18.19, ºC     , teAire: ,21.5, ºC     , Corrida: ,535 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=183,
+
+0:16:2,TomaNro= 88,    Disip: ,31.25, ºC     , Peltier: ,20.6, ºC     , teInsta: ,17.46, ºC     , teAire: ,21.5, ºC     , Corrida: ,541 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:16:8,TomaNro= 89,    Disip: ,31.25, ºC     , Peltier: ,20.9, ºC     , teInsta: ,17.15, ºC     , teAire: ,21.5, ºC     , Corrida: ,547 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:16:14,TomaNro= 90,    Disip: ,31.25, ºC     , Peltier: ,20.34, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,553 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:16:20,TomaNro= 91,    Disip: ,31.25, ºC     , Peltier: ,19.54, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,559 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:16:26,TomaNro= 92,    Disip: ,31.25, ºC     , Peltier: ,18.71, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,565 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:16:32,TomaNro= 93,    Disip: ,31.25, ºC     , Peltier: ,17.89, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,571 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:16:39,TomaNro= 94,    Disip: ,31.25, ºC     , Peltier: ,17.04, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,578 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=183,
+
+0:16:45,TomaNro= 95,    Disip: ,31.25, ºC     , Peltier: ,16.54, ºC     , teInsta: ,23.92, ºC     , teAire: ,21.5, ºC     , Corrida: ,584 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:16:51,TomaNro= 96,    Disip: ,31.25, ºC     , Peltier: ,17.29, ºC     , teInsta: ,19.65, ºC     , teAire: ,21.5, ºC     , Corrida: ,590 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:16:58,TomaNro= 97,    Disip: ,31.25, ºC     , Peltier: ,19.03, ºC     , teInsta: ,18.01, ºC     , teAire: ,21.5, ºC     , Corrida: ,597 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,BALANCEconPWM=165,
+
+0:17:4,TomaNro= 98,    Disip: ,31.25, ºC     , Peltier: ,20.04, ºC     , teInsta: ,17.33, ºC     , teAire: ,21.5, ºC     , Corrida: ,603 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:17:10,TomaNro= 99,    Disip: ,31.25, ºC     , Peltier: ,19.94, ºC     , teInsta: ,17.13, ºC     , teAire: ,21.5, ºC     , Corrida: ,609 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:17:16,TomaNro= 100,    Disip: ,31.25, ºC     , Peltier: ,19.27, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,615 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:17:22,TomaNro= 101,    Disip: ,31.25, ºC     , Peltier: ,18.48, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,621 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:17:28,TomaNro= 102,    Disip: ,31.25, ºC     , Peltier: ,17.66, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,627 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:17:34,TomaNro= 103,    Disip: ,31.25, ºC     , Peltier: ,16.84, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,633 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,BALANCEconPWM=165,
+0:17:41,TomaNro= 104,    Disip: ,31.25, ºC     , Peltier: ,16.73, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,640 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,BALANCEconPWM=165,
+
+0:17:47,TomaNro= 105,    Disip: ,31.25, ºC     , Peltier: ,17.12, ºC     , teInsta: ,22.02, ºC     , teAire: ,21.5, ºC     , Corrida: ,646 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:17:53,TomaNro= 106,    Disip: ,31.25, ºC     , Peltier: ,18.25, ºC     , teInsta: ,18.92, ºC     , teAire: ,21.5, ºC     , Corrida: ,652 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+
+0:17:59,TomaNro= 107,    Disip: ,31.25, ºC     , Peltier: ,19.9, ºC     , teInsta: ,17.74, ºC     , teAire: ,21.5, ºC     , Corrida: ,658 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,BALANCEconPWM=165,
+
+0:18:5,TomaNro= 108,    Disip: ,31.25, ºC     , Peltier: ,20.86, ºC     , teInsta: ,17.28, ºC     , teAire: ,21.5, ºC     , Corrida: ,664 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:18:11,TomaNro= 109,    Disip: ,31.25, ºC     , Peltier: ,20.68, ºC     , teInsta: ,17.11, ºC     , teAire: ,21.5, ºC     , Corrida: ,670 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+
+0:18:17,TomaNro= 110,    Disip: ,31.25, ºC     , Peltier: ,19.95, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,676 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:18:23,TomaNro= 111,    Disip: ,31.25, ºC     , Peltier: ,19.09, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,682 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:18:29,TomaNro= 112,    Disip: ,31.25, ºC     , Peltier: ,18.21, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,688 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=255,
+0:18:36,TomaNro= 113,    Disip: ,31.25, ºC     , Peltier: ,17.29, ºC     , teInsta: ,17.0, ºC     , teAire: ,21.5, ºC     , Corrida: ,695 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=245,
+
+0:18:42,TomaNro= 114,    Disip: ,31.25, ºC     , Peltier: ,16.6, ºC     , teInsta: ,28.18, ºC     , teAire: ,21.5, ºC     , Corrida: ,701 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+0:18:48,TomaNro= 115,    Disip: ,31.25, ºC     , Peltier: ,17.21, ºC     , teInsta: ,21.28, ºC     , teAire: ,21.5, ºC     , Corrida: ,707 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=255,
+0:18:54,TomaNro= 116,    Disip: ,31.25, ºC     , Peltier: ,18.92, ºC     , teInsta: ,18.64, ºC     , teAire: ,21.5, ºC     , Corrida: ,713 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,HEATINGconPWM=253,
+0:19:0,TomaNro= 117,    Disip: ,31.25, ºC     , Peltier: ,20.61, ºC     , teInsta: ,17.63, ºC     , teAire: ,21.5, ºC     , Corrida: ,719 seg , T1 Goal: ,8.0,T2 Meta ,20.0,Modo ,3  E: ,COOLINGconPWM=250,
