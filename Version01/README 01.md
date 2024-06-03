@@ -2,7 +2,7 @@ VERSION 01 AUTONOMO-CONFIGURABLE: El sistema esta contenido en un microcontrolad
 
 La interfase de usuario consta de un par de leds rojo y verde que indican el estado de enfriamiento o calentamiento respectivamente, y un tercer led que pulsa al ritmo de cada lectura de temperatura como indicador de funcionamiento correcto. La llave on/off de la fuente de alimentacion habilita el funcionamiento del equipo.
 
-Asimismo de incluyen un programa escrito en processing y una aplicacion para android . Al correr el programa de processing y conectarlo via puerto serial permite el monitoreo en tiempo real,la configuracion de parametros y la elección de la rutina térmica activa. eSTE mismo programa graba en el equipo donde está corriendo un archivo de registro a modo de datalogger.
+Asimismo de incluyen un programa escrito en processing y una aplicacion para android . Al correr el programa de processing y conectarlo via puerto serial permite el monitoreo en tiempo real,la configuracion de parametros y la elección de la rutina térmica activa. Este mismo programa graba en el equipo donde está corriendo un archivo de registro a modo de datalogger.
 
 Simultaneamente la aplicacion para android se conecta via Bluetooth con la controladora y permite el monitoreo en tiempo real,la configuracion de parametros y la elección de la rutina térmica activa.
 
